@@ -6,6 +6,7 @@ I'm a Software Engineering Manager based in Austin, TX, scaling high-performing 
 
 ### 🚀 Projects & Builds
 
+* [Oeuvre](https://github.com/pablo-campos/oeuvre) - A collection of standalone scripts, quick prototypes, experimental testbeds, and scratchpad code.
 * [Æther](https://github.com/pablo-campos/aether) - Cross-platform travel app built with Kotlin Multiplatform (KMP) and Gemini API itinerary generation.
 * [Personal Portfolio](https://www.pablo-campos.com/) - Single-config personal hub built with React 19, Tailwind CSS, and Framer Motion.
 * NASA - Sample - Android exploration app rendering NASA Open API datasets using MVVM and Material Design 3.

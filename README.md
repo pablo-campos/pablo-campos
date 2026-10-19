@@ -1,4 +1,4 @@
-# Hey there, I'm Pablo 👋
+# Hey there! 👋
 
 I'm a Software Engineering Manager based in Austin, TX, scaling high-performing teams and delivering resilient, enterprise-grade software. I actively coach engineers, elevate technical standards, and build disciplined SDLC processes that drive measurable impact. By integrating practical AI workflows directly into daily development, I help teams accelerate delivery velocity while keeping architecture and code quality rock-solid.
 

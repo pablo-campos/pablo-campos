@@ -6,7 +6,7 @@ I'm a Software Engineering Manager based in Austin, TX, scaling high-performing 
 
 ### 🚀 Projects & Builds
 
-* [Kabkan](https://kabkan.com) - Multi-tenant quoting and invoicing SaaS for trade contractors and small service businesses, built with Next.js, Prisma, Postgres, and Better Auth, in English, Spanish, and French.
+* [Kabkan](https://kabkan.com) - Multi-tenant quoting and invoicing SaaS for trade contractors and small service businesses.
 * [Moirai](https://github.com/pablo-campos/moirai) - A modern, minimalist canvas for designing and communicating system architectures.
 * [Oeuvre](https://github.com/pablo-campos/oeuvre) - A collection of standalone scripts, quick prototypes, experimental testbeds, and scratchpad code.
 * [Æther](https://github.com/pablo-campos/aether) - Cross-platform travel app built with Kotlin Multiplatform (KMP) and Gemini API itinerary generation.
@@ -15,5 +15,5 @@ I'm a Software Engineering Manager based in Austin, TX, scaling high-performing 
 * [Flickr - Sample](https://github.com/pablo-campos/flickr-sample) - Modern Android media app integrating Firebase ML Kit for on-device text and image labeling.
 * [Github - Sample](https://github.com/pablo-campos/profile-followers) - Java-based Android app enabling recursive follower exploration via the GitHub REST API.
 * [Foursquare - Sample](https://github.com/pablo-campos/foursquare-sample) - Venue discovery Android app using Foursquare API, Google Maps, and local storage.
-* SeizeAlert ([Android](https://github.com/diegotheairwolf/Android) | [Pebble](https://github.com/diegotheairwolf/Pebble)) - Wearable seizure detection system pairing a Pebble smartwatch with an Android alert app.
+* SeizeAlert ([Android](https://github.com/diegotheairwolf/Android) | [Pebble](https://github.com/diegotheairwolf/Pebble)) - Wearable seizure detection system pairing a smartwatch with a mobile app.
 * LEMApp - Campus event discovery web app featuring Google Maps integration and Google OAuth 2.0.

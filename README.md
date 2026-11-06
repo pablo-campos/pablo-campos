@@ -16,7 +16,7 @@ I'm a Software Engineering Manager based in Austin, TX, scaling high-performing 
 * [Oeuvre](https://github.com/pablo-campos/oeuvre) - A collection of standalone scripts, quick prototypes, experimental testbeds, and scratchpad code.
 * [Æther](https://github.com/pablo-campos/aether) - Cross-platform travel app built with Kotlin Multiplatform (KMP) and Gemini API itinerary generation.
 * [Personal Portfolio](https://www.pablo-campos.com/) - Single-config personal hub built with React 19, Tailwind CSS, and Framer Motion.
-* NASA - Sample - Android exploration app rendering NASA Open API datasets using MVVM and Material Design 3.
+* [NASA - Sample](https://github.com/pablo-campos/nasa) - Android exploration app rendering NASA Open API datasets using MVVM and Material Design 3.
 * [Flickr - Sample](https://github.com/pablo-campos/flickr-sample) - Modern Android media app integrating Firebase ML Kit for on-device text and image labeling.
 * [Github - Sample](https://github.com/pablo-campos/profile-followers) - Java-based Android app enabling recursive follower exploration via the GitHub REST API.
 * [Foursquare - Sample](https://github.com/pablo-campos/foursquare-sample) - Venue discovery Android app using Foursquare API, Google Maps, and local storage.

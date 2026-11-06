@@ -1,6 +1,11 @@
-# Hey there! 👋
+# Pablo Campos — Engineering Leader & Builder
 
-I'm a Software Engineering Manager based in Austin, TX, scaling high-performing teams and delivering resilient, enterprise-grade software. I actively coach engineers, elevate technical standards, and build disciplined SDLC processes that drive measurable impact. By integrating practical AI workflows directly into daily development, I help teams accelerate delivery velocity while keeping architecture and code quality rock-solid.
+[![Location](https://img.shields.io/badge/Austin,_TX-181717?style=flat-square&logo=googlemaps&logoColor=10B981)](#)
+[![Portfolio](https://img.shields.io/badge/pablo--campos.com-10B981?style=flat-square&logo=googlechrome&logoColor=white)](https://www.pablo-campos.com/)
+[![Repos](https://img.shields.io/badge/Public_Repos-11+-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pablo-campos?tab=repositories)
+[![Languages](https://img.shields.io/badge/Languages-Kotlin_|_TS_|_JS_|_Java_|_SQL_|_C-181717?style=flat-square&logo=codefactor&logoColor=10B981)](#)
+
+I'm a Software Engineering Manager based in Austin, TX, scaling high-performing teams and delivering resilient, enterprise-grade software...
 
 ---
 

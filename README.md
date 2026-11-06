@@ -1,7 +1,7 @@
 # Pablo Campos — Engineering Leader & Builder
 
-[![Location](https://img.shields.io/badge/Austin,_TX-181717?style=flat-square&logo=googlemaps&logoColor=10B981)](#)
 [![Portfolio](https://img.shields.io/badge/pablo--campos.com-10B981?style=flat-square&logo=googlechrome&logoColor=white)](https://www.pablo-campos.com/)
+[![Location](https://img.shields.io/badge/Austin,_TX-181717?style=flat-square&logo=googlemaps&logoColor=10B981)](#)
 [![Repos](https://img.shields.io/badge/Public_Repos-11+-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pablo-campos?tab=repositories)
 [![Languages](https://img.shields.io/badge/Languages-Kotlin_|_TS_|_JS_|_Java_|_SQL_|_C-181717?style=flat-square&logo=codefactor&logoColor=10B981)](#)
 

@@ -9,7 +9,7 @@ I'm a Software Engineering Manager based in Austin, TX, scaling high-performing 
 
 ---
 
-### 🚀 Projects & Builds
+### Projects & Builds
 
 * [Kabkan](https://kabkan.com) - Multi-tenant quoting and invoicing SaaS for trade contractors and small service businesses.
 * [Moirai](https://github.com/pablo-campos/moirai) - A modern, minimalist canvas for designing and communicating system architectures.

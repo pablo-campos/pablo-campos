@@ -22,3 +22,4 @@ I'm a Software Engineering Manager based in Austin, TX, scaling high-performing 
 * [Foursquare - Sample](https://github.com/pablo-campos/foursquare-sample) - Venue discovery Android app using Foursquare API, Google Maps, and local storage.
 * SeizeAlert ([Android](https://github.com/diegotheairwolf/Android) | [Pebble](https://github.com/diegotheairwolf/Pebble)) - Wearable seizure detection system pairing a smartwatch with a mobile app.
 * LEMApp - Campus event discovery web app featuring Google Maps integration and Google OAuth 2.0.
+
